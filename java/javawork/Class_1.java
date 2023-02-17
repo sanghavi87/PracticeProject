@@ -1,7 +1,7 @@
 package javawork;
 
 //package name has changed from "java" to "javatopic"
-public class Class_X {
+public class Class_1 {
     // class name has changed from "Class_1" to "Class_x "
     public static void main(String[]args){
 
